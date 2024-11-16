@@ -1,0 +1,37 @@
+*{ @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+    margin:2px;
+    padding:2px;
+    }
+    
+    #heading{
+        text-decoration: underline;
+    }
+    
+    .text{
+        font-family: "Inter", sans-serif;
+        font-style: normal;
+        font-size: 32px;
+    }
+    
+    #div1{
+        border: 2px solid black; /* Defines the border width, style, and color */
+        padding: 30px;          /* Adds space between the text and the border */
+        margin: 10px;           /* Adds space outside the border */
+        display: inline-block;  /* Optional: Keeps the border tightly wrapped around the text */
+        width:1200px;
+    }
+    
+    img{
+        padding: 3px;          /* Adds space between the text and the border */
+        margin: 3px;           /* Adds space outside the border */
+        display: block; 
+        width: 1000px;
+        height: 762px;
+    }
+    
+    #trivia{
+        padding: 10px;          /* Adds space between the text and the border */
+        margin: 25px;           /* Adds space outside the border */
+        display: inline-block; 
+    }
+    
